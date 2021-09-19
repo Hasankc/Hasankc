@@ -2,7 +2,7 @@
 - 👀 I’m interested in internship
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my emile: Alhasanal_qaysi@yahoo.com
+- 📫 How to reach me : Alhasanal_qaysi@yahoo.com
 
 <!---
 Hasankc/Hasankc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
