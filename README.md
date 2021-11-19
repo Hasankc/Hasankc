@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hasankc
 - 👀 I’m interested in internship
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C language
 - 📫 How to reach me : Alhasanal_qaysi@yahoo.com
 
 <!---
