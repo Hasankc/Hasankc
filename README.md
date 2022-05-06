@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Hasankc
-- 📫 How to reach me : https://www.linkedin.com/in/hasanalqaysi/
+-  Full-stack developer 
+-  📫 How to reach me : https://www.linkedin.com/in/hasanalqaysi/
 - 
 
 
